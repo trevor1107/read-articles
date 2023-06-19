@@ -5,3 +5,4 @@
 3. [2023-06-12 / Javascript 대소문자 문자열 바꾸기 성능 비교(charCodeAt, toUpperCase)](2023-06-12.md)
 4. [2023-06-15 / Git 커밋 기록 조회(log)](2023-06-15.md)
 5. [2023-06-16 / Git 되돌리기(reset, revert), Git Branch 조회, 변경, 삭제, 마크다운 테이블 열 크기 지정하기](2023-06.16.md)
+6. [2023-06-19 / Git 수정하기(rebase, amend)](2023-06-19.md)
